@@ -1,0 +1,298 @@
+@media (max-width: 500px){
+  p {
+    font: ;
+  }
+  th, tr, td {
+ 
+  padding: 10px;
+  
+}
+  
+}
+
+body {
+    padding: 0px;
+    margin: 0;
+    color: white;
+    font-family: sans-serif;
+}
+
+/* .header-background{
+  background-image: url('div-background.jpg');
+  margin: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+
+header {
+    background-color: #091057;
+    padding-bottom: 20px;
+   
+    margin-bottom: 30px;
+}
+#head {
+    background-color: #091057;
+    border: 0.1rem ;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 00px;
+    border-bottom: 3px dotted;
+    box-shadow: 0 2px white;
+    position: ;
+}
+
+  
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+nav li {
+    margin-right: 1px;
+    margin-left: 20px;
+} 
+
+
+
+.h2 {
+  color: black;
+}
+
+.navbar navbar-expand-md navbar-dark fixed-top {
+  background-color: red;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+a:hover {
+  border-bottom: 2px white;
+}
+
+.container my-5 {
+  box-shadow: 0 0 30px white;
+}
+
+
+/* .current {
+  background-color: white;
+  color: #006175;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: bold;
+} */
+
+.current {
+  border-bottom: 1px solid #EC8305;
+  
+  border-top: 1px solid #ec8305;
+  padding: 9px;
+  width: 90px;
+}
+
+
+
+.intro {
+  font-family: verdana, sans-serif;
+  margin-top: 30px;
+}
+
+#typing {
+    height: 200px;
+    padding: 10px;
+    }
+
+
+
+/* logo */
+.rounded-sm-3 {
+  height: 300px;
+  border-radius: 190px;
+}
+
+.btn {
+  margin: 5px;
+}
+
+.carousel-image {
+  height: 280px;
+  width: 350px;
+  border-radius: 50px;
+  
+}
+
+.img-mini {
+  height: 90px;
+  border-radius: 60px;
+
+}
+
+.greet-blue {
+  color: black;
+  background-color: #006bff1a;
+  border: 1px solid #006bff;
+  border-left: 15px solid #006bff;
+  border-radius: 15px;
+  padding: 17px;
+  margin-bottom: 50px;
+  width: 80%;
+  align-items: left;
+  position: ;
+
+}
+
+.greet-red {
+  color: black;
+  background-color: #dc354514;
+  border: 1px solid #dc3545;
+  border-left: 15px solid #dc3545;
+  border-radius: 15px;
+  padding: 17px;
+  margin-bottom: 50px;
+  width: 80%;
+  align-items: left;
+
+}
+
+.greet-green {
+  color: black;
+  background-color: #28a74514;
+  border: 1px solid #28a745;
+  border-left: 15px solid #28a745;
+  border-radius: 15px;
+  padding: 17px;
+  margin-bottom: 50px;
+  width: 80%;
+  align-items: left;
+
+}
+
+.greet-yellow {
+  color: black;
+  background-color: #ffc1071a;
+  border: 1px solid #ffc107;
+  border-left: 15px solid #ffc107;
+  border-radius: 15px;
+  padding: 17px;
+  margin-bottom: 50px;
+  width: 80%;
+  align-items: left;
+
+}
+
+.body-text {
+  color: black;
+}
+
+.briefee {
+  padding: 80px;
+  border: 1px solid black;
+  color: white;
+  background: #608BC1;
+}
+
+table {
+  color: white;
+  border: 1px solid;
+  border-radius: 10px;
+  margin: 60px;
+  background-color: #695a3df5;
+  font-size: 1.2rem;
+
+}
+
+.table-background {
+  background-image: url('div-background.jpg');
+  padding: 1px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 90px;
+}
+
+th, tr, td {
+  border-bottom: 1px solid;
+  padding: 5px;
+  border-right: 1px solid;
+}
+
+.tr-red {
+  background-color: #ff000029;
+}
+
+.tr-orange {
+  background-color: #ff88003b;
+}
+
+.tr-yellow {
+  background-color: #fffe003b;
+}
+
+.tr-green {
+  background-color: #21ff002e;
+}
+
+.tr-blue {
+  background-color: #00b2ff24;
+}
+
+.tr-indigo {
+  background-color: #4b008240;
+}
+
+.tr-violet {
+  background-color: #ee82ee42;
+}
+.tr-t1 {
+  background-color: #80808021;
+}
+
+.social {
+  height: 30px;
+  width: 33px;
+  margin-right: 20px;
+}
+
+
+#about-shortnote {
+  color: black;
+  padding: 30px;
+  align-items: center;
+}
+
+.handles {
+  background-color: ;
+  padding: 40px;
+}
+
+.why{
+  background-color: #387478;
+  color: #E2F1E7;
+  padding: 40px;
+  align-items: center;
+}
+
+.why img {
+  height: 90px;
+}
+
+.why ol li {
+  margin-left: 0;
+}
+
+
+
+.foot {
+  height: 50px;
+  background-color: #091057;
+  color: ;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  border: 0;
+}
